@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 90.015472 90.01547"
+   xml:space="preserve"
+   id="svg167"
+   width="90.015472"
+   height="90.015472"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><defs
+   id="defs171" /><title
+   id="title115">Palo Alto Networks logo</title><metadata
+   id="metadata117"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Palo Alto Networks logo</dc:title></cc:Work></rdf:RDF></metadata><desc
+   id="desc119">A  cybersecurity and networking company based in United States</desc>
+<style
+   type="text/css"
+   id="style121">
+	.st0{fill:#F04E23;}
+</style>
+<g
+   transform="matrix(0.287,0,0,0.2882,0.00177408,-0.45440217)"
+   id="g165"><polygon
+     class="st0"
+     points="201.8,1.59 157,46.36 179.3,68.64 67.05,180.9 111.8,225.7 156.6,180.9 134.3,158.6 246.6,46.36 "
+     id="polygon125"
+     transform="translate(3.8848476e-6,44.08268)" /><rect
+     class="st0"
+     transform="rotate(-45)"
+     x="-111.68966"
+     y="111.68092"
+     width="158.79848"
+     height="63.319393"
+     id="rect127"
+     style="stroke-width:0.99999" /><rect
+     class="st0"
+     transform="rotate(-45)"
+     x="-48.423904"
+     y="269.85513"
+     width="158.79848"
+     height="63.319393"
+     id="rect129"
+     style="stroke-width:0.99999" /></g>
+</svg>
